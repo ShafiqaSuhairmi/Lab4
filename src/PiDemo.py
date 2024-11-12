@@ -73,7 +73,7 @@ def main():
     buzzer.init()
     buzzer.beep(0.5, 0.5, 4)
 
-    blink_led(1)
+    blink_led(3)
 
     rotate_servo()
 
